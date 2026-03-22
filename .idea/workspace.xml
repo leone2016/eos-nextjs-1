@@ -4,32 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0ce629f-fc5d-42a7-a9cc-2883db347399" name="Changes" comment="fix: Update image paths and import React in multiple components">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/amazon/accessible-lodge/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/amazon/accessible-lodge/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/amazon/deep-jungle-lodge/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/amazon/deep-jungle-lodge/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/amazon/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/amazon/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/climbing/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/climbing/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/contact/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/contact/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/custom-tours/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/custom-tours/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/galapagos/cruises/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/galapagos/cruises/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/galapagos/diving/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/galapagos/diving/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/galapagos/land-based/[slug]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/galapagos/land-based/[slug]/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/galapagos/land-based/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/galapagos/land-based/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/galapagos/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/galapagos/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/EcuadorExperiences.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/EcuadorExperiences.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/InquiryForm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/InquiryForm.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/MissionSection.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MissionSection.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Partners.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Partners.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TripAdvisorReviews.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TripAdvisorReviews.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/amazon/LodgeDetail.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/amazon/LodgeDetail.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/galapagos/CruiseDecks.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/galapagos/CruiseDecks.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/galapagos/CruiseFilters.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/galapagos/CruiseFilters.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/galapagos/CruisesBrowser.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/galapagos/CruisesBrowser.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/shared/ItineraryTable.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/shared/ItineraryTable.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ui/Pagination.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ui/Pagination.tsx" afterDir="false" />
-    </list>
+    <list default="true" id="c0ce629f-fc5d-42a7-a9cc-2883db347399" name="Changes" comment="fix: Update image paths and import React in multiple components" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,29 +47,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
-    &quot;js.debugger.nextJs.config.created.client&quot;: &quot;true&quot;,
-    &quot;js.debugger.nextJs.config.created.server&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/lorenaguartazaca/Documents/eos-nextjs/public/amazon&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;npm.Next.js: server-side.executor&quot;: &quot;Run&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Users/lorenaguartazaca/Documents/eos-nextjs/node_modules/typescript/lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "kualo",
+    "javascript.preferred.runtime.type.id": "node",
+    "js.debugger.nextJs.config.created.client": "true",
+    "js.debugger.nextJs.config.created.server": "true",
+    "last_opened_file_path": "/Users/lorenaguartazaca/Documents/eos-nextjs/public/amazon",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.Next.js: server-side.executor": "Run",
+    "ts.external.directory.path": "/Users/lorenaguartazaca/Documents/eos-nextjs/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/public/amazon" />
@@ -169,11 +144,23 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: Add server setup for Next.js application with HTTP server integration" />
     <MESSAGE value="feat: Add commit message inspection profile and update VCS directory mapping" />
     <MESSAGE value="fix: Update image paths and import React in multiple components" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: Update image paths and import React in multiple components" />
+    <MESSAGE value="Revert &quot;feat(kualo): deploy&quot;&#10;&#10;This reverts commit 06283d51" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;feat(kualo): deploy&quot;&#10;&#10;This reverts commit 06283d51" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
